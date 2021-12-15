@@ -1,4 +1,4 @@
-# blockchain-crypto-meetup
+# NCR Crypto Meetups
 This is a collection of blockchain crypto code examples, documents, demos and schedule for our blockchain crypto meetup!
 
 ### Schedule
