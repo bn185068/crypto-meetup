@@ -1,5 +1,5 @@
 # NCR Crypto Meetups
-This is a collection of resources, infomation and scheduling for the NCR Crypto meetups!
+This is a collection of resources, infomation and scheduling for the NCR Crypto meetups! These meetups are meant for education, innovation and critical discussion on topics in the blockchain and cryptocurrency space. The goal is to gather anyone at NCR interested in blockchain and crypto in one place to create a culture of learning, innovation and critical thinking around the topic. We want all who desire knowledge in this realm to participate! The ONLY requirement is a desire to learn!
 
 ### Schedule
 You can view the upcoming schedule [here](./schedule.md). If you would like to present a topic or suggest a topic to be covered please add it to the schedule by cloning this repo, adding it to the schedule.md and submit a PR with the linked table filled out! Then when it gets merged in it will be considered to be on the calendar.
