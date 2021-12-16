@@ -1,4 +1,4 @@
-# Blockchain & Crypto Meetup Schedule
+# NCR Crypto Meetup Schedule
 
 |     Date    |          Type          |        Title        |          Presenter       |                Topic              |                      Link to README                      |
 |-------------|------------------------|---------------------|--------------------------|-----------------------------------|----------------------------------------------------------|
