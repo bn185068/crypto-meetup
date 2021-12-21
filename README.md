@@ -1,5 +1,5 @@
 # NCR Crypto Meetups
-## *Meetup: an informal meeting or get-together.*
+#### *Meetup: an informal meeting or get-together.*
 
 These meetups are meant to be an informal, casual and fun way to meet new people at NCR, be part of the crypto community at NCR, learn new things, come up with new ideas and have healthy, critical disucssions and debates with others. Anyone can join! There is only 1 Participation Requirement: a desire to learn! All questions are encouraged and expected. All levels of knowledge from all organizations within NCR are not only able to attend but also encouraged to attend and participate in the meetup and discussion. These meetups are meant for education, innovation and critical discussion on topics in the blockchain and cryptocurrency space. The goal is to gather anyone at NCR interested in blockchain and crypto in one place to create a culture of learning, innovation and critical thinking around the topic.
 
