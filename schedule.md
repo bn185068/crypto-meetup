@@ -2,7 +2,7 @@
 
 |     Date    |          Type          |        Title        |          Presenter       |                Topic              |                      Link to README                      |
 |-------------|------------------------|---------------------|--------------------------|-----------------------------------|----------------------------------------------------------|
-|  01-07-2022 | Education & Discussion | What are these meetups? Blockchain & Crypto 101 | Bryan Nonni, Alex Lewin | Introduce meetup schedule, process, repo, slack channel, etc., High level intro to blockchain & crypto | [intro-crypto](meetups/01-07-2022/README.md) |
-|  02-04-2022 | Education & Discussion | Bitcoin 101 | Jon West | Bitcoin 101 - Why we see trillions of digital currency transactiaons, deeper continuation of first meetup | [bitcoin-101](meetups/02-04-2022/README.md) |
-|  03-04-2022 | Education & Discussion | NCR Crypto | Frank Hinek | NCR's place in crypto, new internal organization, goals, roadmap, etc. | [ncr-crypto](meetups/03-04-2022/ncr-crypto.md) |
-|  04-08-2022 | TBD |TBD | TBD | TBD | TBD |
+|  01-06-2022 | Education | NCR Crypto Meetup Info + Blockchain & Crypto 101 | Bryan Nonni, Alex Lewin | Introduce meetup schedule, process, repo, slack channel, etc., High level intro to blockchain & crypto | [intro-crypto](meetups/01-06-2022/README.md) |
+|  02-03-2022 | Education | Bitcoin 101 | Jon West | Bitcoin 101 - Why we see trillions of digital currency transactiaons, deeper continuation of first meetup | [bitcoin-101](meetups/02-04-2022/README.md) |
+|  03-03-2022 | Education | NCR Crypto | Frank Hinek | NCR's place in crypto, new internal organization, goals, roadmap, etc. | [ncr-crypto](meetups/03-04-2022/ncr-crypto.md) |
+|  04-07-2022 | TBA |TBA | TBA | TBA | TBA |

@@ -1,9 +1,8 @@
 # Intro
-TBD
+TBA
 
 ## Overview
-TBD
+TBA
 
 ## Recording
-TBD
-
+TBA
