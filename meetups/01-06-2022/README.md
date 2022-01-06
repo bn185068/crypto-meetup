@@ -6,4 +6,5 @@
 
 ## Resources
 Recording: https://ncr-my.sharepoint.com/:v:/p/bn185068/ESirHdnbqY5MpcU7tG_MrdIBhB62O4Z6jXYKieuNf1a1Ww
+
 Slides: https://ncr.sharepoint.com/:p:/s/InnovationLab/EY4cjcWBKlhCg0_wd4EBKiIBivDFvBqzUiIVbOxB6JFwcw?e=3GDp2T
