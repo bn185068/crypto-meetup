@@ -1,4 +1,4 @@
-# NCR Crypto Meetups
+# NCR Crypto Meetup
 #### *Meetup: an informal meeting or get-together.*
 
 These meetups are meant to be a informal, casual and fun way to meet new people at NCR interested in crypto, be part of the crypto community at NCR, learn new topics in crypto, come up with new ideas in crypto and have healthy, critical disucssions and debates with others about topics in crypto.
