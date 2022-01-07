@@ -1,11 +1,9 @@
 # NCR Crypto Meetup
 #### *Meetup: an informal meeting or get-together.*
 
-These meetups are meant to be a informal, casual and fun way to meet new people at NCR interested in crypto, be part of the crypto community at NCR, learn new topics in crypto, come up with new ideas in crypto and have healthy, critical disucssions and debates with others about topics in crypto.
+These meetups are meant to be an informal, casual and fun. The goals of these meetups are as follows: create a community of people at NCR interested in crypto, create a culture of crypto and blockchain innovation at NCR, learn new topics in crypto, come up with new ideas in crypto and provide a forum for critical debate and discussion with others about topics in crypto.
 
-Anyone can join! There is only 1 Participation Requirement: a desire to learn! All questions are encouraged and expected. All levels of knowledge from all organizations within NCR are not only able to attend but also encouraged to attend and participate in the meetup and discussion.
-
-These meetups are meant for education, innovation and critical discussion on topics in the blockchain and cryptocurrency space. The goal is to gather anyone at NCR interested in blockchain and crypto in one place to create a culture of learning, innovation and critical thinking around the topic.
+Anyone can join! There is only 1 Participation Requirement: a desire to learn! All questions are encouraged and expected. All levels of knowledge from all organizations within NCR are not only able to attend but also encouraged to attend and participate.
 
 ### What You Will Find Here
 This repo is meant to be a collection of resources, infomation and scheduling for the NCR Crypto meetups! The following things are available:
