@@ -6,4 +6,5 @@ The best way to learn bitcoin is to first understand the problem it solves. Afte
 
 ## Resources
 Recording: https://ncr.sharepoint.com/:v:/s/NCRCryptoMeetups/EbiM8WtxJo1MgbMJIW4CtsEB9T_gsIyX2NjhVPnaC88R0w?e=ffjk34
+
 Slides: https://1drv.ms/b/s!Aq2zjTdx7n0XwQhwZR-P3J4qga6h?e=kVfC1O
