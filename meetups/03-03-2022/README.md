@@ -18,5 +18,5 @@ via chat.
 ## Presenter
 Frank Hinek
 
-## Recording
-TBA
+## Resources
+[Recording](https://ncr.sharepoint.com/:v:/s/NCRCryptoMeetups/EXh_hmQfBbdMmwijXxOBjLABQcwPN72ya3UsWOzVM0it7g?e=EeBcNS)
