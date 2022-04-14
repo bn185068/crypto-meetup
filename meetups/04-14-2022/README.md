@@ -1,13 +1,8 @@
 # Title
-Ethereum, Smart Contracts, Web3
+Bitcoin Conference Miami 2022 Recap
 
 ## Overview
-High-level overview of Ethereum, Smart contracts and web3. Questions answered will include:
-- How does it work?
-- How should I think about Ethereum in context to the broader ecosystem?
-- How is it different from Bitcoin?
-- What are smart contracts & how they work?
-- What is "web3"?
+Recap of the keynotes and notable talks, Jack Mallers' NCR x Strike partnership talk and much more!
 
 ## Presenter
 Bryan Nonni & Alex Lewin
