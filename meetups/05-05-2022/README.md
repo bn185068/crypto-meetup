@@ -1,17 +1,22 @@
-# Title
-Ethereum, Smart Contracts, Web3
+# Live Demo: Learn Blockchain in one Sitting!
 
 ## Overview
-High-level overview of Ethereum, Smart contracts and web3. Questions answered will include:
-- How does it work?
-- How to think about it?
-- How is it different from Bitcoin?
-- What are smart contracts & how they work?
-- What is "web3"?
-- Does web3 have substance?
+We will be learning blockchain's core concepts together - from the grassroots up. Feel free to sit back and listen, or work alongside me. The demo will be split up into two parts so we can address questions half-way & at the end. 
+
+Topics Include:
+- SHA256 Hash
+- Blocks
+- Distributed Blockchains
+- Tokens
+- Coinbase
+- Public/Private Key Pairs
+- Signatures
+- Transactions
 
 ## Presenter
-Bryan Nonni & Alex Lewin
+- Connor Meeds
+- Might need Alex or Bryan's assistance to answer Bitcoin-specific questions that might be raised
 
 ## Resources
-
+- Demo Website for Part 1: https://andersbrownworth.com/blockchain/hash
+- Demo Website for Part 2: https://andersbrownworth.com/blockchain/public-private-keys/keys
