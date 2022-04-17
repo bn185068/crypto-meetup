@@ -7,4 +7,4 @@
 |  03-03-2022 | Education | NCR Crypto | Frank Hinek | NCR's crypto strategy: new internal organization, goals, roadmap, etc. | [ncr-crypto](meetups/03-03-2022/README.md) |
 |  04-14-2022 | Education | Bitcoin Conference 2022 Recap | Bryan Nonni, Alex Lewin | Recap of the keynotes, open source talks, maybe some mining / business talks, and of course the Jack Mallers NCR x Strike partnership talk | [btc-22](meetups/04-14-2022/README.md) |
 |  05-05-2022 | Live Demo | Learn Blockchain from the Grassroots up | Connor Meeds | SHA256 Hash, Blocks, Distributed Blockchains, Tokens, Coinbase, Public/Private Key Pairs, Signatures, and Transactions | [eth-sc-w3](meetups/05-05-2022/README.md) |
-|  06-09-2022 | Education | Ethereum, Smart Contracts, Web3 | Bryan Nonni, Alex Lewin | High-level overview of Ethereum, Smart contracts and web3 | [eth-sc-w3](meetups/04-07-2022/README.md) |
+|  06-09-2022 | Education | Ethereum, Smart Contracts, Web3 | Bryan Nonni, Alex Lewin | High-level overview of Ethereum, Smart contracts and web3 | [eth-sc-w3](meetups/06-09-2022/README.md) |
