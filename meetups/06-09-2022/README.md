@@ -15,6 +15,6 @@ High-level overview of Ethereum, Smart contracts and web3. Questions answered wi
 - What is Web3?
 
 ## Presenter
-Bryan Nonni & Alex Lewin
+Bryan Nonni
 
 ## Resources
