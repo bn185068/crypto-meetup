@@ -20,3 +20,4 @@ Topics Include:
 ## Resources
 - Demo Website for Part 1: https://andersbrownworth.com/blockchain/hash
 - Demo Website for Part 2: https://andersbrownworth.com/blockchain/public-private-keys/keys
+- [Recording](https://ncr.sharepoint.com/:v:/s/NCRCryptoMeetups/Ec--NhMYWKhFr66bO54C0fYBaQkAcF2flnCIDxXbI7rBmA?e=u7y4Lc)
